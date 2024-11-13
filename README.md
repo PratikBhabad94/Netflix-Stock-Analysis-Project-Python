@@ -10,6 +10,20 @@ Pandas and Numpy :- For data manipulation, cleaning, and numerical analysis.
 Matplotlib, Plotly and Seaborn :- For interactive charts and dynamic visualizations 
 
 
+# Process
+
+•	Collected data setfrom online
+
+•	Understand the data
+
+•	Data cleaning and transformation
+
+•	Analyze the data
+
+•	Data Visualization
+
+
+
 
 
 
