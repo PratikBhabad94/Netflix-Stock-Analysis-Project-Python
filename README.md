@@ -23,6 +23,24 @@ Matplotlib, Plotly and Seaborn :- For interactive charts and dynamic visualizati
 •	Data Visualization
 
 
+# Objective Highlights
+
+•	Analyzed volumes of stocks traded
+
+•	Extracted Netflix stock price data including High, Close, and Open prices
+
+•	Segmented Netflix stock price by day and month for comprehensive insights
+
+•	Identified the top 5 dates with the highest Netflix stock prices
+
+•	Determined the top 5 dates with the lowest Netflix stock prices
+
+•	Analyzed high and low stock per period of time
+
+
+
+
+
 
 
 
