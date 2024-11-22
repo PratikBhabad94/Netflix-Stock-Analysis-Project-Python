@@ -14,8 +14,6 @@ Matplotlib, Plotly and Seaborn :- For interactive charts and dynamic visualizati
 
 •	Collected data setfrom online
 
-•	Understand the data
-
 •	Data cleaning and transformation
 
 •	Analyze the data
